@@ -1,4 +1,32 @@
 # Team Avishkar-maxo 
+Project Description:
+Student enhancement pack is a small scale website for school students to always be on track in terms of academics, aptitude etc.
+
+Here a student gets :-
+1. Individual attention from teacher bot
+2. Can take down the notes for his/her reference
+3. Have a section to practise quizzes, puzzles etc. on aptitude to improve aptitude without getting bored.
+4. Presence of task manager which helps students to improve in academics by doing daily tasks.
+5. Separate section for practise questions to go through important questions based on subjects.
+
+Tools/ Languages used :- 
+Python
+HTML
+CSS
+Flask
+Java script
+Dialog Flow
+
+Basic steps on how to use this :-
+1. Register/ Login to access account.
+2. After logging in the student can see five different option :-
+3. Teacher bot
+4. Note taker
+5. Task manager
+6. Aptitude
+7. Practice questions
+The student can opt particularly according to his/her choice.  
+
 Teacher bot
 Teacher bot is a chatbot built using the chatterbot python library. It is trained to answer the questions of students regarding their examinations, portions, syllabus, and some more issues. The student needs to just type in their query and the Teacher bot responds to it according to the data fed.  It plays an instrumental role by eliminating the repetitive task done by the teacher to answer the same set of questions and also help students to retrieve when they want.
 
